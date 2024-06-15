@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "name": "The Power of Habit",
+        "title": "Why We Do What We Do in Life and Business",
+        "price": 300,
+        "category": "Self-Help",
+        "image": "https://m.media-amazon.com/images/I/61zQbovFjOL._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+      },
+      {
+        "id": 2,
+        "name": "The Night Circus",
+        "title": "Erin Morgenstern",
+        "price": 150,
+        "category": "Fantasy",
+        "image": "https://m.media-amazon.com/images/I/61Pqqc4muHL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Educated",
+        "title": "Tara Westover",
+        "price": 200,
+        "category": "Memoir",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3htGYsByRE-T0mmC99kEERH5O8JJeX797d6QlUeI6Lw&s"
+      },
+      {
+        "id": 4,
+        "name": "The Silent Patient",
+        "title": "Alex Michaelides",
+        "price": 250,
+        "category": "Mystery",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81KLMgVjF4L.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Sapiens: A Brief History of Humankind",
+        "title": "Yuval Noah Harari",
+        "price": 280,
+        "category": "History",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR10kl11rW4JIFupQNUFnGBM5tUOQBfuyYt_h-GpZSnQA&s"
+      },
+      {
+        "id": 6,
+        "name": "The Book Thief",
+        "title": "Markus Zusak",
+        "price": 320,
+        "category": "Historical Fiction",
+        "image": "https://m.media-amazon.com/images/I/71H52+sSb4L._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+      },
+      {
+        "id": 7,
+        "name": "The Subtle Art of Not Giving a F*ck",
+        "title": "Mark Manson",
+        "price": 180,
+        "category": "Self-Help",
+        "image": "https://dropsell-tunisie.com/wp-content/uploads/2023/11/5.png"
+      },
+      {
+        "id": 8,
+        "name": "Where the Crawdads Sing",
+        "title": "Delia Owens",
+        "price": 400,
+        "category": "Mystery",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582135294i/36809135.jpg"
+      },
+      {
+        "id": 9,
+        "name": "The Seven Husbands of Evelyn Hugo",
+        "title": "Taylor Jenkins Reid",
+        "price": 220,
+        "category": "Fiction",
+        "image": "https://bookbins.in/wp-content/uploads/2023/01/The-Seven-Husbands-Of-Evelyn-Hugo-Taylor-Jenkins-Reid-Buy-Online-Bookbins-1.png"
+      },    
+    {
+        "id": 10,
+        "name": "Atomic Habits",
+        "title": "An Easy & Proven Way to Build Good Habits & Break Bad Ones.",
+        "price": 200,
+        "category": "Personal Growth",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX331_BO1,204,203,200_.jpg"
+        },
+        {
+        "id": 11,
+        "name": "The Alchemist",
+        "title": "A Fable About Following Your Dream",
+        "price": 150,
+        "category": "Fiction",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/71pJIgY8ZuL._AC_UL210_SR210,210_.jpg"
+        },
+        {
+        "id": 12,
+        "name": "To Kill a Mockingbird",
+        "title": "Harper Lee",
+        "price": 300,
+        "category": "Classic",
+        "image": "https://m.media-amazon.com/images/I/81gepf1eMqL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+        "id": 13,
+        "name": "1984",
+        "title": "George Orwell",
+        "price": 250,
+        "category": "Classic",
+        "image": "https://m.media-amazon.com/images/I/71rpa1-kyvL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+        "id": 14,
+        "name": "Pride and Prejudice",
+        "title": "Jane Austen",
+        "price": 180,
+        "category": "Classic",
+        "image": "https://cdn.kobo.com/book-images/1a735d96-6075-4bca-87b7-15fb97ee50c7/353/569/90/False/pride-and-prejudice-216.jpg"
+        },
+        {
+        "id": 15,
+        "name": "The Great Gatsby",
+        "title": "F. Scott Fitzgerald",
+        "price": 280,
+        "category": "Classic",
+        "image": "https://m.media-amazon.com/images/I/81QuEGw8VPL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+        "id": 16,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "title": "J.K. Rowling",
+        "price": 320,
+        "category": "Fantasy",
+        "image": "https://m.media-amazon.com/images/I/515W3XN03YL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+        "id": 17,
+        "name": "The Hobbit",
+        "title": "J.R.R. Tolkien",
+        "price": 400,
+        "category": "Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+        "id": 18,
+        "name": "The Catcher in the Rye",
+        "title": "J.D. Salinger",
+        "price": 220,
+        "category": "Classic",
+        "image": "https://m.media-amazon.com/images/I/8125BDk3l9L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+        "id": 19,
+        "name": "Lord of the Flies",
+        "title": "William Golding",
+        "price": 170,
+        "category": "Classic",
+        "image": "https://m.media-amazon.com/images/I/81WUAoL-wFL._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Becoming",
+            "title": "Michelle Obama",
+            "price": 170,
+            "category": "Memoir",
+            "image": "https://m.media-amazon.com/images/I/81dDwAzxtrL._AC_UF1000,1000_QL80_.jpg"
+          }
+          ,
+          {
+            "id": 21,
+            "name": "Charlotte's Web",
+            "title": "E.B. White",
+            "price": 0,
+            "category": "Children's Literature",
+            "image": "https://m.media-amazon.com/images/I/91YS0h1kz5L._AC_UF1000,1000_QL80_.jpg"
+          },
+          {
+            "id": 22,
+            "name": "The Secret Garden",
+            "title": "Frances Hodgson Burnett",
+            "price": 0,
+            "category": "Children's Literature",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwo_RnKVtQhTZxj3bQpuawfqw0h7f22MnK3Yds6ndcTQ&s"
+          },
+          {
+            "id": 23,
+            "name": "Little Women",
+            "title": "Louisa May Alcott",
+            "price": 0,
+            "category": "Classic",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfLCB3ebX7yUBnYPe4vSKjGR4yyGCjJMcFesR2VoPDA&s"
+          },
+          {
+            "id": 24,
+            "name": "Anne Frank: The Diary of a Young Girl",
+            "title": "Anne Frank",
+            "price": 0,
+            "category": "Memoir",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJLLScpZRVOvdhUibLV76pZK704goznWN7YP3MY1HC1w&s"
+          },
+          {
+            "id": 25,
+            "name": "Alice's Adventures in Wonderland",
+            "title": "Lewis Carroll",
+            "price": 0,
+            "category": "Fantasy",
+            "image": "https://m.media-amazon.com/images/I/91uMrXq+4RL._AC_UF1000,1000_QL80_.jpg"
+          },
+          {
+            "id": 26,
+            "name": "Peter Pan",
+            "title": "J.M. Barrie",
+            "price": 0,
+            "category": "Fantasy",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dxFUOb6KLAl9NAzKopkPGSh-UYZjcYZqrlaAzrCMHw&s"
+          },
+          {
+            "id": 27,
+            "name": "The Wind in the Willows",
+            "title": "Kenneth Grahame",
+            "price": 0,
+            "category": "Children's Literature",
+            "image": "https://m.media-amazon.com/images/I/71vKT+i3WwL._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+          },
+          {
+            "id": 28,
+            "name": "Treasure Island",
+            "title": "Robert Louis Stevenson",
+            "price": 0,
+            "category": "Adventure",
+            "image": "https://m.media-amazon.com/images/I/710K9pWWZ+L._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+          },
+          {
+            "id": 29,
+            "name": "Grimm's Fairy Tales",
+            "title": "The Brothers Grimm",
+            "price": 0,
+            "category": "Children's Literature",
+            "image": "https://m.media-amazon.com/images/I/91NXanulVHL._AC_UF1000,1000_QL80_.jpg"
+          }
+
+]

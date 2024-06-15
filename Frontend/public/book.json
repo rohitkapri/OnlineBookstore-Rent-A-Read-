@@ -1,0 +1,45 @@
+[{
+  "id": 41,
+  "name": "The 7 Habits of Highly Effective People",
+  "title": "Stephen R. Covey",
+  "price": 270,
+  "category": "Self-Help",
+  "image": "https://m.media-amazon.com/images/I/71y1NKGcGKL._AC_UF1000,1000_QL80_.jpg"
+  }
+  ,
+  {
+  "id": 42,
+  "name": "How to Win Friends and Influence People",
+  "title": "Dale Carnegie",
+  "price": 260,
+  "category": "Self-Help",
+  "image": "https://m.media-amazon.com/images/I/611OWa8x+WL._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+  }
+  ,
+  {
+  "id": 43,
+  "name": "Think and Grow Rich",
+  "title": "Napoleon Hill",
+  "price": 290,
+  "category": "Self-Help",
+  "image": "https://m.media-amazon.com/images/I/61Q43BBSXbL._AC_UF1000,1000_QL80_.jpg"
+  }
+  ,
+  {
+  "id": 44,
+  "name": "The Power of Now",
+  "title": "Eckhart Tolle",
+  "price": 280,
+  "category": "Self-Help",
+  "image": "https://m.media-amazon.com/images/I/41yi-GKjdXL._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+  }
+  ,
+  {
+  "id": 45,
+  "name": "You Are a Badass",
+  "title": "How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+  "price": 270,
+  "category": "Self-Help",
+  "image": "https://m.media-amazon.com/images/I/81Y0MfXemRL._AC_UF350,350_QL50_.jpg"
+  }
+]
